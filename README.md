@@ -1,7 +1,6 @@
 # Spar Nord Bank ATM Transactions Analysis 🏦💰📊
 
-## Overview
-
+## Overview of the project is below
 This project aims to analyze Spar Nord Bank's ATM transaction data to gain insights into customer behavior, transaction patterns, and potential cost-saving opportunities. By utilizing data engineering, data analytics, and data visualization techniques, we uncover valuable insights that can inform decision-making processes and optimize the bank's ATM network.
 
 ## Architecture 🏗️
